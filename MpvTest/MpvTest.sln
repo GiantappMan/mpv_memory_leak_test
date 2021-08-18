@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MpvTest", "MpvTest\MpvTest.csproj", "{05C00431-90E0-45BB-B739-DEBE7DEF6745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C00431-90E0-45BB-B739-DEBE7DEF6745}.Debug|x64.ActiveCfg = Debug|x64
+		{05C00431-90E0-45BB-B739-DEBE7DEF6745}.Debug|x64.Build.0 = Debug|x64
+		{05C00431-90E0-45BB-B739-DEBE7DEF6745}.Release|x64.ActiveCfg = Release|x64
+		{05C00431-90E0-45BB-B739-DEBE7DEF6745}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D406D8F-5600-44F7-B7C1-31934F0E01CD}
+	EndGlobalSection
+EndGlobal
